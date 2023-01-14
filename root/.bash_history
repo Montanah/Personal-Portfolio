@@ -841,3 +841,27 @@ git pull
 clear
 ls
 exit
+cd alx-low_level_programming
+cd 0x18-dynamic_libraries
+ls
+clear
+cd ../
+ls
+cd ../
+ls
+cd root
+ls
+/root
+cd /root
+clear
+ls
+cat tmp
+cp school tmp
+ls
+cat tmp
+vim tmp
+clear
+ls
+cat tmp
+clear
+exit
